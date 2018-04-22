@@ -14,35 +14,35 @@
 
 ### 2) 
 <pre>Öncelikle sunumun son sayfasýnýn url'ný bulup programa girilir</pre>
-![image](https://i.hizliresim.com/EPkAog.png)
+![url](https://ibb.co/b4tiDc)
 
 ### 3)
 <pre>Url girildikten sonra yol ortaya çýkarýlýyor ve yol dizisi oluþturuluyor.</pre>
-![image](https://i.hizliresim.com/jymNMr.png)
+![path](https://ibb.co/mT6QRx)
 
 ### 4)
 <pre>Bu yol içinde sayfa numarasýnýn bulunduðu yerin numarasý girilir(array 0'dan baþlar) ve böylece 
 sayfa sayýsý ortaya cýkar.</pre>
-![image](https://i.hizliresim.com/2JBodq.png)
+![no](https://ibb.co/hbRQRx)
 
 ### 5)
 <pre>Burada indirilecek dosyalar için yeni klasör oluþturulur.Eger bu klasör daha önceden yaratýlmýþsa 
 bu klasörden devam edebilir yada yeni bir klasör oluþturulabilir.</pre>
-![image](https://i.hizliresim.com/Z9mz6a.png)
+![klasör](https://ibb.co/cj08eH)
 
 ### 6)
 <pre>Yol içinde bulunan sayfa sayýsýnýn olduðu kýsmý yazarak buranýn üzerinde iþlem yapýlýr</pre>
-![image](https://i.hizliresim.com/oOoN5m.png)
+![sayfa](https://ibb.co/bNcX6x)
 
 ### 7)
 <pre>Dosyalar indirilmeye baþlanmýþ</pre>
-![image](https://i.hizliresim.com/lOmNXX.png)
+![indirme](https://ibb.co/exi5Rx)
 
 ### 8)
 <pre>Pdf oluþturulmaya baþlanýþ ve pdf için isim girildikten sonra sonunda pdf ortaya cýkar.</pre>
-![image](https://i.hizliresim.com/VrmzOn.png)
+![pdf](https://ibb.co/dfPODc)
 
 ### 9)
 
-![image](https://i.hizliresim.com/jymNZW.png)
+![son](https://ibb.co/eaBQRx)
 
