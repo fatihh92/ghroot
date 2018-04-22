@@ -14,7 +14,7 @@ Programý baþlatmak için:
 
 ### 2) 
 <pre>Öncelikle sunumun son sayfasýnýn url'ný bulup programa girilir</pre>
-![url](https://i.hizliresim.com/dOml0V.png)
+[![image](https://i.hizliresim.com/dOml0V.png)](https://hizliresim.com/dOml0V)
 
 ### 3)
 <pre>Url girildikten sonra yol ortaya çýkarýlýyor ve yol dizisi oluþturuluyor.</pre>
