@@ -1,0 +1,6 @@
+.idea
+__pycache__
+deneme
+venv
+btc_finder.py
+sniffer.py
