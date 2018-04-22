@@ -39,7 +39,7 @@ bu klasörden devam edebilir yada yeni bir klasör oluþturulabilir.</pre>
 ![indirme](/resim/resim6.png)
 
 ### 8)
-<pre>Pdf oluþturulmaya baþlanýþ ve pdf için isim girildikten sonra sonunda pdf ortaya cýkar.</pre>
+<pre>Pdf oluþturulmaya baþlanýr ve pdf için isim girildikten sonra sonunda pdf ortaya cýkar.</pre>
 ![pdf](/resim/resim7.png)
 
 ### 9)
