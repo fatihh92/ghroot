@@ -9,12 +9,12 @@
 ## KULLANIMI
 
 ### 1)
-<pre>Programý baþlatmak için:</pre>
+Programý baþlatmak için:
 <code>python downloadv2.py</code>
 
 ### 2) 
 <pre>Öncelikle sunumun son sayfasýnýn url'ný bulup programa girilir</pre>
-![url](https://ibb.co/b4tiDc)
+![url](https://i.hizliresim.com/dOml0V.png)
 
 ### 3)
 <pre>Url girildikten sonra yol ortaya çýkarýlýyor ve yol dizisi oluþturuluyor.</pre>
