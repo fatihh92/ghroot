@@ -14,7 +14,7 @@ Programý baþlatmak için:
 
 ### 2) 
 <pre>Öncelikle sunumun son sayfasýnýn url'ný bulup programa girilir</pre>
-![image](\resim\resim1.png)
+![image](/resim/resim1.png)
 
 ### 3)
 <pre>Url girildikten sonra yol ortaya çýkarýlýyor ve yol dizisi oluþturuluyor.</pre>
